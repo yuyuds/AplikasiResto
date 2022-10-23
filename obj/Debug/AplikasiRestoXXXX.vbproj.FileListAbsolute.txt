@@ -1,0 +1,12 @@
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\bin\Debug\AplikasiRestoXXXX.exe.config
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\bin\Debug\AplikasiRestoXXXX.exe
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\bin\Debug\AplikasiRestoXXXX.pdb
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\bin\Debug\AplikasiRestoXXXX.xml
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.vbprojAssemblyReference.cache
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.FormLogin.resources
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.Resources.resources
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.vbproj.GenerateResource.cache
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.vbproj.CoreCompileInputs.cache
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.exe
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.xml
+E:\Wiwi\AplikasiRestoXXXX\AplikasiRestoXXXX\obj\Debug\AplikasiRestoXXXX.pdb
